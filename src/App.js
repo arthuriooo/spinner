@@ -1,16 +1,16 @@
 import React from 'react'
 import './App.css'
 
-import styled from 'styled-components'
+// import styled from 'styled-components'
 
 const logo = require('./command.png')
 
-const Button = styled.div`
-  padding: 20px 30px;
-  margin-top: 120px;
-  background-color: coral;
-  border-radius: 15px;
-`
+// const Button = styled.div`
+//   padding: 20px 30px;
+//   margin-top: 120px;
+//   background-color: coral;
+//   border-radius: 15px;
+// `
 
 function App() {
   return (
